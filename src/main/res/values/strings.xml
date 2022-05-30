@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">c</string>
+    <string name="osnText">Введите числа.</string>
+    <string name="button_plus_text">Сложить</string>
+    <string name="ret">Назад</string>
+
+</resources>
